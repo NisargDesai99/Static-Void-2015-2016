@@ -94,9 +94,7 @@ except copyright notices indicating different years of publication for different
 portions of the software. This notice does not supersede the application of any
 third party copyright notice to that third party's code
 
-
-The MIT License (MIT)
-
+================================================================================
 Copyright (c) 2015 LASA Robotics
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -118,7 +116,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-
+================================================================================
 Copyright (c) 2015 Static Void
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
